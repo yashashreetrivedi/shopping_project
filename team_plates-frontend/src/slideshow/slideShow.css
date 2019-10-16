@@ -1,0 +1,22 @@
+.container {
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+}
+
+.container img{
+	object-fit: scale-down;
+}
+
+.react-slideshow-container{
+	height:100%;
+	width:100%;
+	z-index: -1;
+}
+
+.react-slideshow-wrapper{
+	width: 50%;
+	z-index: -1;
+		
+}
+
