@@ -1,0 +1,14 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "Doe",
+		"emailAddress": "jdoe@test.com",
+		"password": "jdoe1212",
+		"address": {
+			"streetAddress": "1234 Fake St",
+			"city": "Chicago",
+			"state": "IL",
+			"zipCode": "60445"
+		}
+	}
+]
