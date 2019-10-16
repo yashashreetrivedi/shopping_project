@@ -1,0 +1,10 @@
+/target/
+
+/concretepage/
+
+/.settings/
+
+.classpath
+
+.project
+/bin/
